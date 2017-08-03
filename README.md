@@ -51,11 +51,11 @@ Certification, JavaScript   – Code Fellows – Seattle, WA
 Specializing in MERN Full-Stack/Javascript - with extensive study on the following libraries and frameworks: React, Node, jQuery, MongoDB. Other studies included the use of Best Practices, Computer Theory, SQL, AWS, Express, CORS, and more.
 
 *2013-2016*  
-Sociology,   Highline College – Des Moines, WA
+Sociology, Highline College – Des Moines, WA
 
 
 *2011-2013*  
-Computer Science,   Community College of Allegheny County – Pittsburgh, PA
+Computer Science, Community College of Allegheny County – Pittsburgh, PA
 
 *2004-2005*  
-MOS Certification,United States Army Signal Academy – Fort Gordon, GA
+MOS Certification, United States Army Signal Academy – Fort Gordon, GA
