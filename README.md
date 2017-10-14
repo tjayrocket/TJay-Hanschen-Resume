@@ -11,7 +11,7 @@ Independent Software Developer, Graphic Artist, Media Creator and Musician - For
 
 * Several Years experience with PC/Mac Operating Systems, with a strong focus on Imaging, Networking, Diagnostics, Troubleshooting and Maintenance/Repair.  
 
-* Experience with JavaScript, CSS and HTML, including Node, React, MongoDB, jQuery and more.  
+* Experience with C#, Unity, JavaScript, CSS and HTML, including Node, React, MongoDB, jQuery and more.  
 
 * Adobe Creative Cloud Suite - Photoshop, Illustrator, Premier, Audition.  
 
@@ -19,11 +19,17 @@ Independent Software Developer, Graphic Artist, Media Creator and Musician - For
 
 ## Experience  
 
-*Apr 2017 - Current*  
+*Jul 2017 - Current*  
 **JavaScript Developer**  
-*Code Fellows*  
+*OweYaa Group*  
 
-Student of the Code Fellows JavaScript Training course. Worked on Several JavaScript platforms with many essential and useful JavaScript Libraries.
+Independent Software Developer Creating Full Stack (MERN) applications for Public Release.  
+
+*Jan 2017 - Current*  
+**JavaScript Developer**  
+*Independent Contractor*  
+
+Independent Developer and Musician specializing in the creation of top-tier creative content and robust, reliable applications for desktop, mobile and beyond. Specializing in JavaScript (MERN stack), C#, and Mobile First Web and App development.  
 
 *Jun 2015 - Mar, 2017*  
 **Letter Carrier**  
