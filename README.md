@@ -31,17 +31,6 @@ Independent Software Developer Creating Full Stack (MERN) applications for Publi
 
 Independent Developer and Musician specializing in the creation of top-tier creative content and robust, reliable applications for desktop, mobile and beyond. Specializing in JavaScript (MERN stack), C#, and Mobile First Web and App development.  
 
-*Jun 2015 - Mar, 2017*  
-**Letter Carrier**  
-*United States Postal Service*  
-
-Maintain Federal Standards and Practices for the daily delivery of mail, parcels, accountable deliveries and maintaining a designated route within the city limits of Seattle.
-
-*Jun 2013 – Jun 2015*  
-**Supervisor**  
-*Shari’s Retaurants*  
-
-Daily Supervisory role of a crew of 30+ employees including scheduling, ordering stock, maintaining office/financial daily reports and accountability and providing excellent customer service skills with the customers, employees and corporate representatives through face-to-face interaction, local social media marketing and charitable drives throughout the corporation.
 
 *Feb 2004 – Nov 2008*  
 **Communications Chief/Public Affairs and Morale, Welfare and Relief NCO**    
@@ -58,7 +47,6 @@ Specializing in MERN Full-Stack/Javascript - with extensive study on the followi
 
 *2013-2016*  
 Sociology, Highline College – Des Moines, WA
-
 
 *2011-2013*  
 Computer Science, Community College of Allegheny County – Pittsburgh, PA
